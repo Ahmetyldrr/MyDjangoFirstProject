@@ -4,9 +4,6 @@ import os
 import sys
 
 
-'bir deneme değişimi yapıldı burada'
-
-
 
 
 def main():
