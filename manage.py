@@ -4,6 +4,11 @@ import os
 import sys
 
 
+'bir deneme değişimi yapıldı burada'
+
+
+
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pages_project.settings')
