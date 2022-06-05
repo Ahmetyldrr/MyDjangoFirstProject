@@ -1,5 +1,5 @@
-"""pages_project URL Configuration
 
+<<<<<<< HEAD
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
 Examples:
@@ -14,6 +14,9 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
  
+=======
+
+>>>>>>> 9ec0b2aa81e1574249d6af811b67c2d98a4ead7e
 from django.contrib import admin
 from django.urls import path, include # new
 
